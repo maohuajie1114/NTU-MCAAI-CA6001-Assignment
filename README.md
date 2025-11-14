@@ -1,0 +1,2 @@
+# NTU-MCAAI-CA6001-Assignment
+2025-2026-T2 CA6001 assignment
